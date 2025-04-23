@@ -114,24 +114,6 @@ weather-project/
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if you want!_
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is [MIT](LICENSE) licensed.
-
----
-
 ## 🙏 Acknowledgements
 
 - [WeatherAPI.com](https://www.weatherapi.com/) for free weather data.
